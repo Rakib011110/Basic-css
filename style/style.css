@@ -1,0 +1,42 @@
+h3 {
+  color: coral;
+  text-align: center;
+  text-decoration: underline wavy blue;
+}
+p {
+  color: blue;
+}
+.title {
+  font-weight: 700px;
+}
+.page-title {
+  color: blueviolet;
+  padding: 10px;
+  width: 100%;
+  height: 300px;
+  background-image: url(../assets/pic1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: gray;
+  background-blend-mode: multiply;
+}
+
+li {
+  color: orange;
+}
+
+ul li {
+  color: purple;
+}
+
+span {
+  border: 2px solid purple;
+  height: 200px;
+  width: 100px;
+  margin-top: 50px;
+  display: inline;
+}
+.blog {
+  box-shadow: 1px 1px 1px 1px gray;
+}
